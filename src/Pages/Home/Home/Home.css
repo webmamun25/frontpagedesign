@@ -1,0 +1,12 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.total-height{
+    background-color:#FBD062 ;
+    min-height: 685px;
+    
+    clip-path: polygon(0 0, 100% 0%, 100% 76%, 0% 100%);
+}

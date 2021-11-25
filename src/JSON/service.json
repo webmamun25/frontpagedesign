@@ -1,0 +1,21 @@
+[
+    {
+        "id":"1",
+        "pic":"https://thumbs2.imgbox.com/28/1d/f1cuzAHh_t.png",
+        "category":"Web & Mobile design",
+        "description":"We craft stunning and amazing web UI, using a well drrafted UX to fit your product."
+    },
+    {
+        "id":"2",
+        "pic":"https://thumbs2.imgbox.com/b7/b4/4xdtvTW8_t.png",
+        "category":"Graphic design",
+        "description":"Amazing flyers, social media posts and brand representations that would make your brand stand out."
+    },
+    {
+        "id":"3",
+        "pic":"https://thumbs2.imgbox.com/c2/56/cASG4cNL_t.png",
+        "category":"Web development",
+        "description":"With well written codes, we build amazing apps for all platforms, mobile and web apps in general."
+    }
+
+]

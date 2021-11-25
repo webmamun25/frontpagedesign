@@ -1,0 +1,10 @@
+.parent li {
+    color:#140e0f;
+    font-size: 24px;
+    
+    padding: 20px 10px;
+    
+}
+.parent li .common:hover{
+    border-bottom: 1px solid slateblue;
+}
