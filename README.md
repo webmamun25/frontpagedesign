@@ -1,8 +1,8 @@
 # Educative
 A learning platform those who wanted to skillful in IT sector
 
-** UI Section
-- only Home page done
+** UI Section **
+-[] only Home page done
 
 ## Description
 - Technology used:React js,Tailwind CSS,Swiper js,Framer motion
