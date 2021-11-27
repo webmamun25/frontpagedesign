@@ -3,6 +3,7 @@ A learning platform those who wanted to skillful in IT sector
 
 **UI Section**
 #740 only Home page done
+- [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 ## Description
 - Technology used:React js,Tailwind CSS,Swiper js,Framer motion
